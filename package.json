@@ -1,0 +1,25 @@
+{
+  "name": "linechat",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "brian",
+  "license": "ISC",
+  "description": "this is demo",
+  "dependencies": {
+    "express": "^4.16.2",
+    "linebot": "^1.3.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "(index.js) index.js"
+  },
+  "keywords": [
+    "npm",
+    "node",
+    "package"
+  ]
+}
